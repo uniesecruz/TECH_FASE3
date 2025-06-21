@@ -1,6 +1,7 @@
 """
 Módulo para download e carregamento dos dados.
 """
+#
 import os
 import pandas as pd
 from kaggle.api.kaggle_api_extended import KaggleApi
