@@ -1,0 +1,130 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.pyo
+*.pyd
+*.pdb
+*.log
+*.pot
+*.mo
+*.db
+*.sqlite3
+*.ipynb_checkpoints/
+
+# Jupyter/Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+.settings/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Data/outputs
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.h5
+*.hdf5
+*.db
+*.sqlite
+*.pkl
+*.joblib
+*.sav
+*.npy
+*.npz
+*.feather
+*.rds
+*.rdata
+*.sas7bdat
+*.dta
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.bak
+*.tmp
+*.swp
+*.swo
+*.dat
+*.log
+*.out
+*.aux
+*.toc
+*.pdf
+*.tex
+*.pptx
+*.docx
+*.doc
+*.ppt
+*.xls
+*.xlsx
+*.ods
+*.odt
+*.rtf
+*.csv
+*.tsv
+*.sav
+*.arff
+*.mat
+*.rda
+*.rdata
+*.sas7bdat
+*.dta
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+
+# MLflow
+mlruns/
+
+# Databricks
+.dbx/
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDEs
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Logs
+logs/
+*.log
+nohup.out
+
+# Others
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Ignore data and outputs folders
+/data/
+/output/
+outputs/
