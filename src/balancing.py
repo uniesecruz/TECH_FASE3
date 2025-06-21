@@ -1,6 +1,7 @@
 """
 Módulo para balanceamento de classes.
 """
+#
 from imblearn.over_sampling import SMOTE
 
 def apply_smote(X, y, random_state=42):
