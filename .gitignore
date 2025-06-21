@@ -8,6 +8,7 @@ __pycache__/
 # Environment files
 .env
 *.env
+*venv
 
 # Data files
 *.csv
